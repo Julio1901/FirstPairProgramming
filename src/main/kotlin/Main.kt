@@ -1,6 +1,4 @@
-fun main(args: Array<String>) {
+fun main() {
     println("Hello World!")
-
-    // Try adding program arguments at Run/Debug configuration
-    println("Program arguments: ${args.joinToString()}")
+    println("Salve Julio")
 }
